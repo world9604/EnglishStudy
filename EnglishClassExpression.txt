@@ -22,20 +22,24 @@ See you next time.
 Shall we have a look at the book?
 책을 한번 흝어 볼까요?
 
+What do you think?
 너는 어떻게 생각해?
 
+Do you understand?
 이해했어?
 
-오늘은 무엇무엇에 대해서 공부 할거에요.
+Today we will study about HTML.
+오늘은 HTML에 대해서 공부 할거에요.
 
+I'll let you know this next time.
 이것은 다음 시간에 알려 줄게요.
 
+Please post your questions on the bulletin board.
 질문은 게시판에 올려주세요.
 
 인사 표현
 - Good afternoon.
 - Nice to meet you class.
-
 
 칭찬의 표현
 - Great.
