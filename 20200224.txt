@@ -12,11 +12,21 @@ What kind of (명사) do you have?
 What kind of browser do you have?
 
 
+I wonder about your answer to this question.
+나는 이 질문에 대한 너의 대답이 궁금해.
+
+i don't know What kind of desktop computer.
+어떤 종류의 데스크톱 컴퓨터인지 모르겠습니다.
 
 I like them both.
 = Either one is fine with me.
 = Both are good.
 
+Herbs
+나물
+
+Coriander grows in Thailand.
+'고수'는 태국에서 자라 난다. 
 
 1 What do you like best for dessert?
 - I like ice cream for dessert.
@@ -40,3 +50,29 @@ cilantro is small leaf from Thailand.
 
 5 Please tell me about your favorite food.
 - My favorite food is hamburger. I love it because it's delicious.
+
+
+* 교정문
+Malatang is similar Jjamppong.
+BETTER
+Malatang is similar to Jjamppong.
+
+Nowadays, I'm prefer having rice.
+BETTER
+I prefer having rice nowadays.
+
+Are you understand?
+BETTER
+Do you understand?
+
+Put in the noodles ice.
+BETTER
+We put ice in the noodles.
+
+What kind of desktop do you have?
+BETTER
+What kind of desktop computer do you have?
+
+I wonder your question this answer.
+BETTER
+I wonder about your answer to this question.
